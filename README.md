@@ -1,38 +1,31 @@
-### Hi there 👋, I'm Kaykobad Yiasin Khan
-#### I am Frontend Developer
-![I am Frontend Developer](https://media.licdn.com/dms/image/D5616AQG3qYiTCR11Zw/profile-displaybackgroundimage-shrink_350_1400/0/1691439399616?e=1708560000&v=beta&t=bAvrB7eETkLBDH4AkzZ6QwMLIWlPGMLnnT9zaz1pALw)
+## Hi, I'm Md Kaykobad Yiasin Khan 👋
 
-Certainly! Here's a version without specifying your name or professional position:
-
-👋 Greetings! I'm a dedicated Frontend Developer based in Dhaka, Bangladesh. My expertise lies in HTML5, CSS3, and JavaScript, specializing in crafting seamless and user-centric web experiences.
-
-💻 Currently contributing to dynamic projects at Werro Digital, I excel in environments where innovation and collaboration converge. Proficient in frameworks like React.js, I prioritize the harmonious integration of aesthetics and functionality, guided by a keen eye for design.
-
-🛠️ My toolkit includes Tailwind CSS, Bootstrap, Material UI, and Firebase, facilitating the successful delivery of diverse projects—from dynamic image galleries to full-stack applications like Freedom Yoga. This encompasses MongoDB, Express.js, Node.js, Firebase Auth, and Stripe for a comprehensive user experience.
-
-🎓 In tandem with hands-on experience, I'm pursuing a Diploma in Engineering with a focus on Graphic Design Technology. Committed to continuous learning, I stay abreast of the ever-evolving tech landscape.
-
-🌐 Whether creating pixel-perfect UIs or delving into the intricacies of web development, I am dedicated to delivering solutions that exceed user expectations.
-
-🌟 Let's connect! Open to collaborations, discussions on the latest tech trends, or exploring new opportunities in the exciting realm of frontend development.
-
-Skills: REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap / Express / MongoDB /
-
-- 🔭 I’m currently working on Matribhumi City 
-- 🌱 I’m currently learning MERN Stack Technology 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kaykobadyiasin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kaykobadyiasin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/eyasinkhan02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/ucvawath67o18yubqn9pftmg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kaykobadyiasin-portfolio.web.app/)  
+<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+## 🚀 About Me
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/kaykobadyiasin)](https://github.com/ryo-ma/github-profile-trophy)
+## 👨‍💻 Skills & Experiance: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kaykobadyiasin)](https://github.com/anuraghazra/github-readme-stats)
+✅ React Js <br>
+✅ MERN Stack <br> 
+✅ JavaScript <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Figam / Photoshop / Illustrator <br>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/kaykobadyiasin)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/kaykobadyiasin)  
 
+## ☕ Connect with me!
+[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/shovoalways)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+
+
+
+## 📧 For Business Inquiries 
+✅  ► kaykobadyiasin@gmail.com

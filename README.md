@@ -16,7 +16,7 @@
 ✅ React Js <br>
 ✅ MERN Stack <br> 
 ✅ JavaScript <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ HTML5 / CSS3 / Tailwind CSS / Bootstrap <br>
 ✅ Figam / Photoshop / Illustrator <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaykobadyiasin&layout=compact)

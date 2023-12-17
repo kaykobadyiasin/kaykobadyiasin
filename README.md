@@ -18,7 +18,7 @@
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Figam / Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaykobadyiasin&layout=compact)
 
 
 ## ☕ Connect with me!
@@ -26,5 +26,5 @@
 
 
 
-## 📧 For Business Inquiries 
+## ✉ For Business Inquiries 
 ✅  ► kaykobadyiasin@gmail.com

@@ -6,10 +6,9 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
 ## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+👋 Frontend Developer based in Dhaka. Specializing in React.js, HTML5, CSS3, and JavaScript. Currently contributing to projects at Werro Digital. Skilled in Tailwind CSS, Bootstrap, Material UI, and Firebase. Passionate about creating seamless web experiences. Open to collaborations and new opportunities in frontend development. Let's connect! 🌟
 
 ## 👨‍💻 Skills & Experiance: 
 

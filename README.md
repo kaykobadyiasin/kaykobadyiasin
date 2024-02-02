@@ -1,4 +1,4 @@
-![I am Frontend Developer](https://media.licdn.com/dms/image/D5616AQG3qYiTCR11Zw/profile-displaybackgroundimage-shrink_350_1400/0/1691439399616?e=1708560000&v=beta&t=bAvrB7eETkLBDH4AkzZ6QwMLIWlPGMLnnT9zaz1pALw)
+![I am Frontend Developer](https://media.licdn.com/dms/image/D5616AQHGa6gM6-VimQ/profile-displaybackgroundimage-shrink_200_800/0/1706880756226?e=2147483647&v=beta&t=d9QTKuaMKezQI6N4R779Qi7kic7rYcaG5piuFeO6Y-c)
 
 ## Hi, I'm Md Kaykobad Yiasin Khan 👋
 
